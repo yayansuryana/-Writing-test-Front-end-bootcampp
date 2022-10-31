@@ -1,10 +1,12 @@
 # Writing-and-Presentation-week-1
-## **HTML** 
-HTML adalah kepanjangan dari Hypertext Markup Language merupakan protokol yang digunakan untuk mentransfer data atau dokumen dari web server ke browser. Html lah yang memungkinkan anda menjelajahi internet dan melihat halaman web.Kegunaan dari html ini sendiri adalah membuat pranala dan form interaktif. Tidak hanya itu, htlm juga berfungsi sebagai pengintergrasian gambar dengan tulisan, berkas suara dan rekman gambar hidup, Secara umum html berfungsi sebagai pengelola serangkaian data dan info, jadi memungkinkan suatu dokumen dapat diakses dan ditampilkan di internet. HTML hanyalah berisi perintah yang telah terstruktur berupa tag-tag penyusun. Menuliskan tag HTML tidaklah sebatas hanya memasukkan perintah tertentu agar HTML kita dapat di akses oleh browser.
+## **Intro to react js** 
+React Native merupakan sebuah framework atau kerangka kerja, sedangkan React JS merupakan sebuah pustaka JavaScript yang biasa digunakan pada situs web. React Native sangat membantu para developer dalam membuat aplikasi menjadi lebih nyata dan menarik meskipun hanya lewat bantuan dari JavaScript saja.
+ReactJS atau React adalah library JavaScript populer buatan Facebook yang digunakan dalam proses pengembangan aplikasi mobile dan web. React berisi kumpulan snippet kode JavaScript (disebut 'komponen') yang bisa digunakan berulang kali untuk mendesain antarmuka pengguna.
 
-Html juga memiliki struktur elemen. Untuk lebih jelasnya akan saya jelaskan sebagai berikut :
+React adalah sebuah library JavaScript yang sering digunakan untuk membangun user interface yang interaktif. React ini dibuat oleh Facebook dan bersifat open source.
 
-![image](https://user-images.githubusercontent.com/92351278/192679590-141b2a5e-bddb-4793-a8b5-46fe1f7973ee.png)
+## **** 
+
 
 - **Elemen** dalam dokumen html ditandai dengan penulisan tag yang berpasangan (contoh: <body></body>), walau ada pula yang tidak harus berpasangan (contoh: <img>).
 - Tag diapit dengan dua karakter kurung bersudut < >.
